@@ -1,0 +1,19 @@
+{
+  "name": "learning-d3",
+  "version": "1.0.0",
+  "description": "Learning D3.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangvanthanh/learning-d3.git"
+  },
+  "author": "Dang Van Thanh <chieuhue@gmail.com> (dangthanh.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dangvanthanh/learning-d3/issues"
+  },
+  "homepage": "https://github.com/dangvanthanh/learning-d3#readme"
+}

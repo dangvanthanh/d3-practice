@@ -1,2 +1,5 @@
-# learning-d3
-Learning d3.js
+# Learning D3.js
+
+Table of Contents
+=================
+
