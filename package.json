@@ -2,9 +2,9 @@
   "name": "learning-d3",
   "version": "1.0.0",
   "description": "Learning D3.js",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "live-server"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dangvanthanh/learning-d3/issues"
   },
-  "homepage": "https://github.com/dangvanthanh/learning-d3#readme"
+  "homepage": "https://github.com/dangvanthanh/learning-d3#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
