@@ -14,10 +14,23 @@
       padding: 0 10px 20px 50px;
       margin-bottom: 20px;
     }
+
+    text {
+      font: bold 48px monospace;
+    }
+
+    .enter {
+      fill: green;
+    }
+
+    .update {
+      fill: #333;
+    }
   </style>
 </head>
 <body>
   <div id="chart"></div>
+  <svg></svg>
   <button data-subject="math" class="js-subject">Math</button>
   <button data-subject="science" class="js-subject">Sience</button>
   <script src="https://unpkg.com/d3"></script>
